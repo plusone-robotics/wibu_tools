@@ -6,8 +6,5 @@ find_package(catkin REQUIRED)
 catkin_package(
 )
 
-install(FILES
-  # myfile1
-  # myfile2
-  DESTINATION ${CATKIN_PACKAGE_SHARE_DESTINATION}
-)
+install(PROGRAMS scripts/codemeter_init_check.sh
+  DESTINATION ${CATKIN_PACKAGE_BIN_DESTINATION})
