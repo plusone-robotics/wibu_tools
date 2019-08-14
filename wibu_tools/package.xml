@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <package format="2">
   <name>wibu_tools</name>
-  <version>0.0.0</version>
+  <version>0.1.0</version>
   <description>Convenient tool set for a proprietary software license solution suite <a href = "https://www.wibu.com/us/products/codemeter.html">CodeMeter</a> or anything that is provided by Wibu Systems.</description>
 
   <maintainer email="isaac.saito@plusonerobotics.com">Isaac I.Y. Saito</maintainer>
